@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Spaghetti%20Factory&fontSize=90)
 
 
-**🍝I want to stop cooking it🏭**
+## **🍝I want to stop cooking it🏭**
 <br>
 <br>
 <br>
