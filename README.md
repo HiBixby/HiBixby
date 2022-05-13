@@ -37,7 +37,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact&locale=kr)](https://github.com/HiBixby)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=default)
 
