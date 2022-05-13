@@ -6,7 +6,7 @@
 I want to stop cooking it
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)](https://solved.ac/okgoogle)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)]
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
 <br>
