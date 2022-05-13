@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Spaghetti%20Factory&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Spaghetti%20Factory&fontSize=90)
 
 
 <div align=center><b>🍝I want to stop cooking it🏭</div>
