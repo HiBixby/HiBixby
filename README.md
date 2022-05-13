@@ -21,10 +21,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ## Contect
+<br>
+<br>
+<br>
 ---
 <br>
 <br>
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=radical)
