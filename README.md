@@ -4,7 +4,7 @@
 I want to stop cooking it
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/OkGoogle)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={OkGoogle})](https://solved.ac/OkGoogle)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=radical)
 
