@@ -23,7 +23,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-6B57FF.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black)
-https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg?_gl=1*4g4w7e*_ga*MjQ4NTU4MTYzLjE2NTI0MTg3MjI.*_ga_9J976DJZ68*MTY1MjQyODM2Ny4yLjEuMTY1MjQyODUxNi4w&_ga=2.235353031.733406550.1652418722-248558163.1652418722
+
 ## Contect
 <br>
 <br>
