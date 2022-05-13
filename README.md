@@ -5,7 +5,7 @@
 <br>
 I want to stop cooking it
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
 <br>
@@ -13,7 +13,7 @@ I want to stop cooking it
 
 <!--
 **HiBixby/HiBixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
