@@ -3,7 +3,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiBixby&count_bg=%23FFDECB&title_bg=%23FFC0C0&icon=&icon_color=%23FFCBCB&title=hits&edge_flat=false"/></a><br>
 I want to stop cooking it
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={OkGoogle})](https://solved.ac/OkGoogle)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={okgoogle})](https://solved.ac/okgoogle)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=radical)
 
