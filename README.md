@@ -5,7 +5,14 @@
 <br>
 **I want to stop cooking it**
 <br>
+<br>
+<br>
+## Skills
+---
+![C](https://img.shields.io/badge/C-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=#A8B9CC)
+![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=radical)
