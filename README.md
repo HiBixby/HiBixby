@@ -20,12 +20,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-
-
-출처: https://soo-vely-dev.tistory.com/159 [_soo__vely의 개발로그]
-
-출처: https://soo-vely-dev.tistory.com/159 [_soo__vely의 개발로그]
-
 ## Contect
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
