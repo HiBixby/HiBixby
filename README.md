@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-<br>:kr:
+<br>
   
 ## Info
   
