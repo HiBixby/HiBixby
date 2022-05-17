@@ -31,6 +31,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-6B57FF.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black)
 
 ## Contect
+<img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Python&logoColor=white"/><br>
 Здравствуйте, 我係韓國人。Yo soy estudiante. Je ne veux pas étudier. 我喜欢玩游戏。<br>
 You can contact me in these languages, but Korean, English and Chinese are the best way to contact me
 <br>
