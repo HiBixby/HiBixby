@@ -31,9 +31,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-6B57FF.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black)
 
 ## Contect
-<br>
-<br>
-Здравствуйте, 我係韓國人。 Yo soy estudiante. Je ne veux pas étudier. 我喜欢玩游戏。You can contact me in these languages
+Здравствуйте, 我係韓國人。Yo soy estudiante. Je ne veux pas étudier. 我喜欢玩游戏。<br>
+You can contact me in these languages, but Korean, English and Chinese are the best way to contact me
 <br>
 <br>
 <br>
