@@ -39,9 +39,6 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 <br>
 <br>
 <br>
-<br>
-<br>
-
 ## Profile
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)](https://solved.ac/okgoogle)
