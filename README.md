@@ -4,7 +4,7 @@
 <div align=center><b>I want to stop cooking it</div>
 <br>
 <br>
-Здравствуйте, 我係韓國人 Yo soy estudiante. Je ne veux pas étudier
+Здравствуйте, 我係韓國人。 Yo soy estudiante. Je ne veux pas étudier. 我喜欢玩游戏。You can contact me in these languages
 <br>
 <br>
   
