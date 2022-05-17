@@ -42,11 +42,11 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 <br>
   
 ## Profile
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)](https://solved.ac/okgoogle)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact&locale=kr)](https://github.com/HiBixby)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=default&locale=kr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=default)
 
 <!--
 **HiBixby/HiBixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
