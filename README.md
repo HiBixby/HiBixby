@@ -4,6 +4,7 @@
 <div align=center><b>I want to stop cooking it</div>
 <br>
 <br>
+Здравствуйте, 我係韓國人 Yo soy estudiante. Je ne veux pas étudier
 <br>
 <br>
   
