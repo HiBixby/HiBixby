@@ -33,7 +33,7 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-6B57FF.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black)
 
-## Contect
+## Contact
 <a href="https://discord.gg/a9rWwKzNYV">
   <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   </a>
