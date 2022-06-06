@@ -51,10 +51,10 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 
 ### 하고싶은 것
   
-마인크래프트 플러그인 만들기
-안드로이드 앱 만들기
-크롬 확장프로그램 만들기
-디스코드 봇 만들기
+* 마인크래프트 플러그인 만들기
+* 안드로이드 앱 만들기
+* 크롬 확장프로그램 만들기
+* 디스코드 봇 만들기
   
 <!--
 **HiBixby/HiBixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
