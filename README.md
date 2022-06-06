@@ -50,7 +50,6 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=default)
 
 ### 하고싶은 것
-  
 * 마인크래프트 플러그인 만들기
 * 안드로이드 앱 만들기
 * 크롬 확장프로그램 만들기
