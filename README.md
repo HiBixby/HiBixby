@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🍝Spaghetti%20Factory🏭&fontAlignY=40&desc=Welcome%20to%20the%20spaghetti%20Factory&animation=fadeIn)
 ![3d_java7png-2](https://user-images.githubusercontent.com/66160055/171332001-a0ab5673-c29c-40f8-bed9-9d4cd642c7c7.png)
 
 
