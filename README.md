@@ -15,7 +15,7 @@
 我想玩游戏。한국에 살고있습니다. (トリック) 残念ですが、私は日本語ができません。lol<br>
 You can contact me in these languages, but Korean, English and Chinese are the best way to contact me
 
-## ⚡ Skills
+## 💪 Skills
 ![Python](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -26,7 +26,7 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white)
 
-## Tools
+## 🛠️ Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
@@ -43,7 +43,7 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 <br>
   
 <details>
-  <summary><h2>Profile</h2></summary>
+  <summary><h2>👤 Profile</h2></summary>
   <div markdown="1">
     
   ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)
