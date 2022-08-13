@@ -12,7 +12,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiBixby&count_bg=%23FFDECB&title_bg=%23FFC0C0&icon=&icon_color=%23FFCBCB&title=hits&edge_flat=false)
 ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okgoogle)<br>
 Здравствуйте, 我係韓國人。Yo soy estudiante. Je ne veux pas étudier. <br>
-我想玩游戏。한국에 살고있습니다. (トリック) 残念ですが、私は日本語ができません。lol<br>
+我想玩游戏。한국에 살고있습니다. (トリック) 残念ですが、私は日本語ができません。wwww<br>
 You can contact me in these languages, but Korean, English and Chinese are the best way to contact me
 
 ## 💪 Skills
