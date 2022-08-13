@@ -45,8 +45,9 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 <details>
   <summary><h2>Profile</h2></summary>
   <div markdown="1">
+    
   ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)
-
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
   <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=default)
