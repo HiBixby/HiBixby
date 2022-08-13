@@ -20,8 +20,6 @@
 <img src="https://user-images.githubusercontent.com/66160055/184511450-9017dee4-3287-4d25-83f4-425dbc8cdc13.png" width=32>
 <img src="https://user-images.githubusercontent.com/66160055/184511508-0a131d81-e0de-448c-9efb-8f54c99fd516.png" width=32>
 
-
-
 Здравствуйте, 我係韓國人。Yo soy estudiante. Je ne veux pas étudier. <br>
 我想玩游戏。한국에 살고있습니다. (トリック) 残念ですが、私は日本語ができません。wwww<br>
 我的专业是人工智能 我是大学四年级 我住在韩国 你可以用中文和我交流~！<br>
