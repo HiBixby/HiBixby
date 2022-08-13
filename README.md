@@ -13,7 +13,7 @@
 ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okgoogle)<br>
 Здравствуйте, 我係韓國人。Yo soy estudiante. Je ne veux pas étudier. <br>
 我想玩游戏。한국에 살고있습니다. (トリック) 残念ですが、私は日本語ができません。wwww<br>
-我的专业是人工智能 我是大学四年级 我住在韩国 你可以用中文和我交流
+我的专业是人工智能 我是大学四年级 我住在韩国 你可以用中文和我交流~！<br>
 You can contact me in these languages, but Korean, English and Chinese are the best way to contact me
 
 ## 💪 Skills
