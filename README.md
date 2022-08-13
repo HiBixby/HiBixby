@@ -53,6 +53,7 @@ You can contact me in these languages, but Korean, English and Chinese are the b
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=default)
   </div>
 </details>
+  
 <details open>
   <summary><h2>✅ 올해 해보고 싶은 것</h2></summary>
   <div markdown="1">
@@ -77,6 +78,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ---
   
   
