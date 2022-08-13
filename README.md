@@ -11,8 +11,8 @@
   
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiBixby&count_bg=%23FFDECB&title_bg=%23FFC0C0&icon=&icon_color=%23FFCBCB&title=hits&edge_flat=false)
 ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okgoogle)<br>
-![image](https://user-images.githubusercontent.com/66160055/184511340-c55452c5-9707-42ea-942b-614e17e4bd65.png)
-![image](https://user-images.githubusercontent.com/66160055/184511331-24cd2d99-29b9-4220-a219-92b3abc30599.png)
+<img src="https://user-images.githubusercontent.com/66160055/184511340-c55452c5-9707-42ea-942b-614e17e4bd65.png" width=32>
+<img src="https://user-images.githubusercontent.com/66160055/184511331-24cd2d99-29b9-4220-a219-92b3abc30599.png" width=32>
 
 Здравствуйте, 我係韓國人。Yo soy estudiante. Je ne veux pas étudier. <br>
 我想玩游戏。한국에 살고있습니다. (トリック) 残念ですが、私は日本語ができません。wwww<br>
