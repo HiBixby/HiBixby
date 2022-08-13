@@ -55,7 +55,7 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 </details>
 
 <details open>
-  <summary><h2>올해 해보고 싶은 것</h2></summary>
+  <summary><h2>✅ 올해 해보고 싶은 것</h2></summary>
   <div markdown="1">
 
   - [x] 마인크래프트 플러그인 or 모드 만들기
