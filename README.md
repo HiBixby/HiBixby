@@ -7,7 +7,7 @@
 <br>
 <br>
   
-## Info
+## 💬 Info
   
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiBixby&count_bg=%23FFDECB&title_bg=%23FFC0C0&icon=&icon_color=%23FFCBCB&title=hits&edge_flat=false)
 ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okgoogle)<br>
@@ -15,7 +15,7 @@
 我想玩游戏。한국에 살고있습니다. (トリック) 残念ですが、私は日本語ができません。lol<br>
 You can contact me in these languages, but Korean, English and Chinese are the best way to contact me
 
-## Skills
+## ⚡ Skills
 ![Python](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -34,7 +34,7 @@ You can contact me in these languages, but Korean, English and Chinese are the b
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-6B57FF.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black)
 
-## Contact
+## 📫 Contact
 <a href="https://discord.gg/a9rWwKzNYV">
   <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   </a>
@@ -54,17 +54,19 @@ You can contact me in these languages, but Korean, English and Chinese are the b
   </div>
 </details>
 
-  
-### 올해 해보고 싶은 것<br>
----
-- [x] 마인크래프트 플러그인 or 모드 만들기
-- [ ] 안드로이드 앱 만들기
-- [x] 크롬 확장프로그램 만들기
-- [ ] 디스코드 봇 만들기
+<details open>
+  <summary><h2>올해 해보고 싶은 것</h2></summary>
+  <div markdown="1">
+
+  - [x] 마인크래프트 플러그인 or 모드 만들기
+  - [ ] 안드로이드 앱 만들기
+  - [x] 크롬 확장프로그램 만들기
+  - [ ] 디스코드 봇 만들기
+  </div>
+</details>
   
 <!--
 **HiBixby/HiBixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
