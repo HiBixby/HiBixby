@@ -18,6 +18,8 @@
 <img src="https://user-images.githubusercontent.com/66160055/184511485-e532bc86-ea6a-47d6-a088-b3d93acb85d6.png" width=32>
 <img src="https://user-images.githubusercontent.com/66160055/184511331-24cd2d99-29b9-4220-a219-92b3abc30599.png" width=32>
 <img src="https://user-images.githubusercontent.com/66160055/184511450-9017dee4-3287-4d25-83f4-425dbc8cdc13.png" width=32>
+<img src="https://user-images.githubusercontent.com/66160055/184511508-0a131d81-e0de-448c-9efb-8f54c99fd516.png" width=32>
+
 
 
 Здравствуйте, 我係韓國人。Yo soy estudiante. Je ne veux pas étudier. <br>
