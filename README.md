@@ -10,7 +10,7 @@
 ## 💬 Info
   
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiBixby&count_bg=%23FFDECB&title_bg=%23FFC0C0&icon=&icon_color=%23FFCBCB&title=hits&edge_flat=false)
-![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okgoogle)<br>
+![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okgoogle)<br><br>
 <img src="https://user-images.githubusercontent.com/66160055/184511340-c55452c5-9707-42ea-942b-614e17e4bd65.png" width=32>
 <img src="https://user-images.githubusercontent.com/66160055/184511434-4ac895b2-8f32-439d-bba8-d90e6190e4c1.png" width=32>
 <img src="https://user-images.githubusercontent.com/66160055/184511410-4ad4a1c3-df7b-4538-82aa-d205faae073a.png" width=32>
