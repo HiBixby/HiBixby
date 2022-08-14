@@ -13,12 +13,12 @@
 ![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okgoogle)<br><br>
 <img src="https://user-images.githubusercontent.com/66160055/184511340-c55452c5-9707-42ea-942b-614e17e4bd65.png" width=32 title="ko_KR">
 <img src="https://user-images.githubusercontent.com/66160055/184511434-4ac895b2-8f32-439d-bba8-d90e6190e4c1.png" width=32 title="en_US">
-<img src="https://user-images.githubusercontent.com/66160055/184511410-4ad4a1c3-df7b-4538-82aa-d205faae073a.png" width=32>
-<img src="https://user-images.githubusercontent.com/66160055/184511466-e7f2b327-c0d7-4baa-b010-148983486cf6.png" width=32>
-<img src="https://user-images.githubusercontent.com/66160055/184511485-e532bc86-ea6a-47d6-a088-b3d93acb85d6.png" width=32>
-<img src="https://user-images.githubusercontent.com/66160055/184511331-24cd2d99-29b9-4220-a219-92b3abc30599.png" width=32>
-<img src="https://user-images.githubusercontent.com/66160055/184511450-9017dee4-3287-4d25-83f4-425dbc8cdc13.png" width=32>
-<img src="https://user-images.githubusercontent.com/66160055/184511508-0a131d81-e0de-448c-9efb-8f54c99fd516.png" width=32>
+<img src="https://user-images.githubusercontent.com/66160055/184511410-4ad4a1c3-df7b-4538-82aa-d205faae073a.png" width=32 title="zh_CN">
+<img src="https://user-images.githubusercontent.com/66160055/184511466-e7f2b327-c0d7-4baa-b010-148983486cf6.png" width=32 title="zh_TW">
+<img src="https://user-images.githubusercontent.com/66160055/184511485-e532bc86-ea6a-47d6-a088-b3d93acb85d6.png" width=32 title="zh_HK">
+<img src="https://user-images.githubusercontent.com/66160055/184511331-24cd2d99-29b9-4220-a219-92b3abc30599.png" width=32 title="fr_FR">
+<img src="https://user-images.githubusercontent.com/66160055/184511450-9017dee4-3287-4d25-83f4-425dbc8cdc13.png" width=32 title="ru_RU">
+<img src="https://user-images.githubusercontent.com/66160055/184511508-0a131d81-e0de-448c-9efb-8f54c99fd516.png" width=32 title="es_ES">
 
 Здравствуйте, 我係韓國人。Yo soy estudiante. Je ne veux pas étudier. <br>
 我想玩游戏。한국에 살고있습니다. (トリック) 残念ですが、私は日本語ができません。wwww<br>
