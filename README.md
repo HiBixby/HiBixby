@@ -22,7 +22,6 @@
 <img src="https://user-images.githubusercontent.com/66160055/184511508-0a131d81-e0de-448c-9efb-8f54c99fd516.png" width=32 title="es_ES">
 
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -32,11 +31,12 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white" />
-
   
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ## 📫 Contact
 <a href="https://discord.gg/a9rWwKzNYV">
@@ -59,14 +59,11 @@
 </details>
   
 <details open>
-  <summary><h2>✅ 해보고 싶은 프로젝트</h2></summary>
+  <summary><h2>What I am interested in</h2></summary>
   <div markdown="1">
-
-  - [x] 마인크래프트 플러그인 or 모드 만들기
-  - [ ] 안드로이드 앱 만들기
-  - [x] 크롬 확장프로그램 만들기
-  - [ ] 디스코드 봇 만들기
-  - [ ] 내 포트폴리오 사이트 풀스택 개발
+    * 마인크래프트 포지 모드 만들기
+    * 크롬 확장앱 만들기
+    * 풀스택으로 토이프로젝트 개발 (심심해서..)
   </div>
 </details>
   
