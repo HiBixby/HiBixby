@@ -62,9 +62,10 @@
 <details open>
   <summary><h2>What I am interested in</h2></summary>
   <div markdown="1">
-    * 마인크래프트 포지 모드 만들기
-    * 크롬 확장앱 만들기
-    * 풀스택으로 토이프로젝트 개발 (심심해서..)
+  
+ * 마인크래프트 포지 모드 만들기
+ * 크롬 확장앱 만들기
+ * 풀스택으로 토이프로젝트 개발 (심심해서..)
   </div>
 </details>
   
