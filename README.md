@@ -42,45 +42,4 @@
 ## 📫 Contact
 <a href="https://discord.gg/a9rWwKzNYV">
   <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=Python&logoColor=white"/>
-  </a>
-<br>
-<br>
-<br>
-  
-<details>
-  <summary><h2>👤 Profile</h2></summary>
-  <div markdown="1">
-    
-  ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okgoogle)
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiBixby&layout=compact)](https://github.com/HiBixby)
-  <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiBixby&show_icons=true&theme=default)
-  </div>
-</details>
-  
-<details open>
-  <summary><h2>What I am interested in</h2></summary>
-  <div markdown="1">
-  
- * 마인크래프트 포지 모드 만들기
- * 크롬 확장앱 만들기
- * 풀스택으로 토이프로젝트 개발 (심심해서..)
-  </div>
-</details>
-  
-<!--
-**HiBixby/HiBixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</div>
-  
+</a>
