@@ -43,3 +43,4 @@
 <a href="https://discord.gg/a9rWwKzNYV">
   <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=Python&logoColor=white"/>
 </a>
+ 
