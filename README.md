@@ -1,7 +1,6 @@
-![3d_java7png-2](https://user-images.githubusercontent.com/66160055/171332001-a0ab5673-c29c-40f8-bed9-9d4cd642c7c7.png)
-
-
-<div align=center><b>Hello! I want to communicate with people all over the world</b>
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/66160055/213840797-fbb2ae3b-6427-4889-ad5f-92177a7ac03c.gif" /><br/>
+  <b>Hello! I want to communicate with people all over the world</b>
 <br> 
 <br>
 <br>
