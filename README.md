@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/66160055/213840797-fbb2ae3b-6427-4889-ad5f-92177a7ac03c.gif" /><br/>
+  <img src = "https://user-images.githubusercontent.com/66160055/213841328-ce1adf04-5340-46a3-afb7-5b7f17e15fde.gif" /><br/>
   <b>Hello! I want to communicate with people all over the world</b>
 <br> 
 <br>
