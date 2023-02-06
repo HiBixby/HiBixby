@@ -27,7 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
 
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=flat-square&logo=Spring%20Security&logoColor=white" />
   
