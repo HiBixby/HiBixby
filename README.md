@@ -22,11 +22,12 @@
 <img src="https://user-images.githubusercontent.com/66160055/184511508-0a131d81-e0de-448c-9efb-8f54c99fd516.png" width=32 title="es_ES">
 
 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<br/>
+<br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=flat-square&logo=Spring%20Security&logoColor=white" />
