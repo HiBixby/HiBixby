@@ -1,7 +1,7 @@
 
 <div align=center>
   <img src = "https://user-images.githubusercontent.com/66160055/213860863-271b11db-3d55-4e0a-8869-f55022af00fa.gif" /><br/>
-  <b>Hello! I want to communicate with people all over the world</b>
+  <b>Hello! I want to communicate with people all over the world</b> 
 <br> 
 <br>
 <br>
