@@ -8,6 +8,10 @@
   <img src = "https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white" />
 </a>
 
+초등학교 때 처음 프로그래밍을 시작했습니다.
+
+프로그래밍은 저의 원동력입니다.
+
 I first started programming when I was in elementary school.
 
 Programming is my driving force.
