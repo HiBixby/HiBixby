@@ -10,7 +10,7 @@
 
 초등학교 때 처음 프로그래밍을 시작했습니다.
 
-프로그래밍은 저의 원동력입니다.
+프로그래밍은 제 원동력입니다.
 
 I first started programming when I was in elementary school.
 
